@@ -71,6 +71,7 @@ Run backend:
 npm start
 
 Backend will run on:
+node server.js
 
 http://localhost:5000
 Frontend Setup
